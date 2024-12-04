@@ -3,7 +3,8 @@
 # throughout this file
 import pygame
 
-print ("Starting asteroids!")
+def main():
+    print ("Starting asteroids!")
 
 if __name__ == "__main__":
     main()
